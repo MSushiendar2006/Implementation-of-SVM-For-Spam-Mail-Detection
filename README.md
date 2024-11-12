@@ -70,24 +70,30 @@ accuracy
 ## Output:
 
  Result Output:
+
 ![image](https://github.com/user-attachments/assets/9977fa47-6a15-4679-9f92-8b9085fe0e86)
 
 
 Data.head():
+
 ![image](https://github.com/user-attachments/assets/53c45b1e-038e-4250-a192-5664bc72221d)
 
 
 Data.info():
+
 ![image](https://github.com/user-attachments/assets/48f86c56-1bcf-4876-86af-bb4a29681d2e)
 
 
 Data.insull().sum():
+
 ![image](https://github.com/user-attachments/assets/0cf83fb6-6e89-4106-b354-3a986adef9e8)
 
 Y_Prediction Value:
+
 ![image](https://github.com/user-attachments/assets/9aad1b17-15d6-4c4e-a265-ae795eb8b5c1)
 
 Accuracy Value:
+
 ![image](https://github.com/user-attachments/assets/e31541b4-a4ba-4764-84b2-42cecd03eb64)
 
 ## Result:
