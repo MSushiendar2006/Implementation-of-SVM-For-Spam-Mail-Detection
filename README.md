@@ -69,18 +69,26 @@ accuracy
 ```
 ## Output:
 
-## 1. Result output
-![ml 9 i1](https://github.com/Rama-Lekshmi/Implementation-of-SVM-For-Spam-Mail-Detection/assets/118541549/3eab037b-6809-422e-873d-f9ed78e8a1ad)
-## 2. data.head()
-![ml 9 i2](https://github.com/Rama-Lekshmi/Implementation-of-SVM-For-Spam-Mail-Detection/assets/118541549/bef21527-e9ef-4e71-bfa4-15658495faa7)
-## 3. data.info()
-![ml 9 i3](https://github.com/Rama-Lekshmi/Implementation-of-SVM-For-Spam-Mail-Detection/assets/118541549/ea4dfc15-dd68-4050-b0d9-c601412d8074)
-## 4. data.isnull().sum()
-![ml 9 i4](https://github.com/Rama-Lekshmi/Implementation-of-SVM-For-Spam-Mail-Detection/assets/118541549/ccbf5240-2004-4419-a299-71feccb702bb)
-## 5. Y_prediction value
-![ml 9 i5](https://github.com/Rama-Lekshmi/Implementation-of-SVM-For-Spam-Mail-Detection/assets/118541549/c4cb968d-d084-4389-9350-d6632f19b874)
-## 6. Accuracy value
-![ml 9 i6](https://github.com/Rama-Lekshmi/Implementation-of-SVM-For-Spam-Mail-Detection/assets/118541549/e8577b82-305d-43be-ac7b-5e830b680157)
+ Result Output:
+![image](https://github.com/user-attachments/assets/9977fa47-6a15-4679-9f92-8b9085fe0e86)
+
+
+Data.head():
+![image](https://github.com/user-attachments/assets/53c45b1e-038e-4250-a192-5664bc72221d)
+
+
+Data.info():
+![image](https://github.com/user-attachments/assets/48f86c56-1bcf-4876-86af-bb4a29681d2e)
+
+
+Data.insull().sum():
+![image](https://github.com/user-attachments/assets/0cf83fb6-6e89-4106-b354-3a986adef9e8)
+
+Y_Prediction Value:
+![image](https://github.com/user-attachments/assets/9aad1b17-15d6-4c4e-a265-ae795eb8b5c1)
+
+Accuracy Value:
+![image](https://github.com/user-attachments/assets/e31541b4-a4ba-4764-84b2-42cecd03eb64)
 
 ## Result:
 Thus the program to implement the SVM For Spam Mail Detection is written and verified using python programming.
